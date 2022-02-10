@@ -1,0 +1,9 @@
+C:\Users\Lab1\Desktop\ödev\sayaç\sayaç\bin\Debug\sayaç.exe.config
+C:\Users\Lab1\Desktop\ödev\sayaç\sayaç\bin\Debug\sayaç.exe
+C:\Users\Lab1\Desktop\ödev\sayaç\sayaç\bin\Debug\sayaç.pdb
+C:\Users\Lab1\Desktop\ödev\sayaç\sayaç\obj\Debug\sayaç.csprojResolveAssemblyReference.cache
+C:\Users\Lab1\Desktop\ödev\sayaç\sayaç\obj\Debug\sayaç.Form1.resources
+C:\Users\Lab1\Desktop\ödev\sayaç\sayaç\obj\Debug\sayaç.Properties.Resources.resources
+C:\Users\Lab1\Desktop\ödev\sayaç\sayaç\obj\Debug\sayaç.csproj.GenerateResource.Cache
+C:\Users\Lab1\Desktop\ödev\sayaç\sayaç\obj\Debug\sayaç.exe
+C:\Users\Lab1\Desktop\ödev\sayaç\sayaç\obj\Debug\sayaç.pdb
